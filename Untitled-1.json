@@ -18,3 +18,12 @@
     "group": "Libraries",
     "download_url": "https://github.com/ZavyFIre/ShibaGTDark/releases/download/v1/ProjectCycloneV9.dll"
   },
+  {
+    "name": "LostClient",
+    "author": "LostClient",
+    "version": "V3",
+    "git_path": "ZavyFIre/ShibaGTDark",
+    "group": "Mods",
+    "download_url": "https://github.com/ZavyFIre/ShibaGTDark/releases/download/v1/LostClientV3.1.dll"
+   },
+
