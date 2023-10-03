@@ -9,5 +9,18 @@
     "git_path": "ZavyFIre/ShibaGTDark",
     "group": "Gameplay",
     "download_url": "https://github.com/ZavyFIre/ShibaGTDark/releases/download/v1/ShibaGTDARK.1.dll"
+  },
+  
+[
+  {
+    "name": "Cyclone",
+    "author": "Cyclone",
+    "version": "9",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "ZavyFIre/ShibaGTDark",
+    "group": "Gameplay",
+    "download_url": "https://github.com/ZavyFIre/ShibaGTDark/releases/download/v1/ShibaGTDARK.1.dll"
   }
   
