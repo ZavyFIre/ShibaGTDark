@@ -1,29 +1,26 @@
 [
   {
-    "name": "ShibaGTDark",
-    "author": "ShibaGT",
-    "version": "13",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "ZavyFIre/ShibaGTDark",
-    "group": "Gameplay",
-    "download_url": "https://github.com/ZavyFIre/ShibaGTDark/releases/download/v1/ShibaGTDARK.1.dll"
+    "name" : "Core",
+    "rank" : 0
   },
   {
-    "name": "Cyclone",
-    "author": "Cyclone",
-    "version": "V9",
-    "git_path": "ZavyFIre/ShibaGTDark",
-    "group": "Libraries",
-    "download_url": "https://github.com/ZavyFIre/ShibaGTDark/releases/download/v1/ProjectCycloneV9.dll"
+    "name" : "Cosmetic",
+    "rank" : 2
   },
   {
-    "name": "LostClient",
-    "author": "LostClient",
-    "version": "V3",
-    "git_path": "ZavyFIre/ShibaGTDark",
-    "group": "Mods",
-    "download_url": "https://github.com/ZavyFIre/ShibaGTDark/releases/download/v1/LostClientV3.1.dll"
-   },
-
+    "name" : "Gameplay",
+    "rank" : 3
+  },
+  {
+    "name" : "Tweaks / Tools",
+    "rank" : 4
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 5
+  }
+  {
+    "name" : "Mod Menus",
+    "rank" : 1
+  },
+]
